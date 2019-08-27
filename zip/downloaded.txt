@@ -2423,3 +2423,5 @@ http://oasis.caiso.com/oasisapi/SingleZip?queryname=PRC_SPTIE_LMP&startdatetime=
 http://oasis.caiso.com/oasisapi/SingleZip?queryname=PRC_SPTIE_LMP&startdatetime=20190820T07:00-0000&enddatetime=20190821T08:00-0000&version=3&market_run_id=RTD&grp_type=ALL_APNODES
 http://oasis.caiso.com/oasisapi/SingleZip?queryname=PRC_SPTIE_LMP&startdatetime=20190821T07:00-0000&enddatetime=20190822T08:00-0000&version=3&market_run_id=RTD&grp_type=ALL_APNODES
 http://oasis.caiso.com/oasisapi/SingleZip?queryname=PRC_SPTIE_LMP&startdatetime=20190822T07:00-0000&enddatetime=20190823T08:00-0000&version=3&market_run_id=RTD&grp_type=ALL_APNODES
+http://oasis.caiso.com/oasisapi/SingleZip?queryname=PRC_SPTIE_LMP&startdatetime=20190823T07:00-0000&enddatetime=20190824T08:00-0000&version=3&market_run_id=RTD&grp_type=ALL_APNODES
+http://oasis.caiso.com/oasisapi/SingleZip?queryname=PRC_SPTIE_LMP&startdatetime=20190824T07:00-0000&enddatetime=20190825T08:00-0000&version=3&market_run_id=RTD&grp_type=ALL_APNODES
